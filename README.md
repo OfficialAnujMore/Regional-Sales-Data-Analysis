@@ -5,7 +5,8 @@ This project analyzes multi-year sales data (2014–2018) to uncover insights on
 ---
 
 ## 📁 Dataset Overview
-**Google Colab link:** https://colab.research.google.com/drive/1yVgetcQQthyWoQe3cRYRnK4q36Qohgk4
+ - **Google Colab link:** https://colab.research.google.com/drive/1yVgetcQQthyWoQe3cRYRnK4q36Qohgk4
+ - **Regional Sales Dataset.xlsx:** https://github.com/OfficialAnujMore/Regional-Sales-Data-Analysis/blob/main/Regional%20Sales%20Dataset.xlsx
 
 The dataset comes from a fictional business and includes detailed information about:
 
@@ -16,7 +17,7 @@ The dataset comes from a fictional business and includes detailed information ab
 - **State Regions**: U.S. state-to-region mappings (e.g., West, South).
 - **2017 Budgets**: Budget allocations per product for 2017.
 
-> **File Used:** `Regional Sales Dataset.xlsx`
+> **File Used:** `[Regional Sales Dataset.xlsx]([url](https://github.com/OfficialAnujMore/Regional-Sales-Data-Analysis/blob/main/Regional%20Sales%20Dataset.xlsx))`
 
 ---
 
