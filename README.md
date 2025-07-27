@@ -5,8 +5,10 @@ This project analyzes multi-year sales data (2014–2018) to uncover insights on
 ---
 
 ## 📁 Dataset Overview
- - **Google Colab link:** https://colab.research.google.com/drive/1yVgetcQQthyWoQe3cRYRnK4q36Qohgk4
- - **Regional Sales Dataset.xlsx:** https://github.com/OfficialAnujMore/Regional-Sales-Data-Analysis/blob/main/Regional%20Sales%20Dataset.xlsx
+ - <a href="https://colab.research.google.com/drive/1yVgetcQQthyWoQe3cRYRnK4q36Qohgk4" target="_blank">Google Colab link</a>
+ - <a href="https://github.com/OfficialAnujMore/Regional-Sales-Data-Analysis/blob/main/Regional%20Sales%20Dataset.xlsx" target="_blank">Regional Sales Dataset.xlsx</a>
+
+
 
 The dataset comes from a fictional business and includes detailed information about:
 
